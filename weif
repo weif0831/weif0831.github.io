@@ -1,0 +1,22 @@
+<style>
+          p.small {line-height: 120%;}   
+</style>
+
+
+<p> 
+          
+          <h1 class="mb-0">Fei Wei</h1>
+          
+          <div class="subheading mb-5">Department of Mathematics, University of Sussex, UK
+            <a href="mailto:weif0831@gmail,com">weif0831@gmail,com</a>
+          </div>
+
+          <p class="mb-1">Research fellow.
+            (Prior to this, I worked with Jon Keating at University of Oxford from 2022-2024. I was a postdoc at the University of Tsinghua since 2019. I 
+             received my PhDs from University of Newhampshire and the University of Chinese Academy of Sciences.)
+          </p>
+
+          <p class="mb-3">Research interests: random matrix, number theory, integral systems, dynamical systems </p>
+
+
+</p>
